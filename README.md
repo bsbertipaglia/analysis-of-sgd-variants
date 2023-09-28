@@ -1,6 +1,6 @@
-prj: project code  
-Presentation: project paper  
-Papers: papers of the analyzed optimizers  
+*prj*: project code  
+*Presentation*: project paper  
+*Papers*: papers of the analyzed optimizers  
 
 # Analysis of some Variance Reduction Optimizers: SARAH, SpiderBoost and SNVRG
 
